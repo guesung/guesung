@@ -7,74 +7,8 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-        />
-    </a> 
-    <!-- C -->
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="C"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer">
-        <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            alt="C++"
-            width="40"
-            height="40"
-        />
-    <!-- HTML -->
-    </a>    
-      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- JS -->
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- NodeJs-->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-  <br>
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 </p>
 
 <br>
@@ -86,9 +20,6 @@
   <a href="https://www.instagram.com/guesung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:gueit214@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
-<br>
-<p>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)
-
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)
+![Guesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gueit214&show_icons=true&theme=radical)
