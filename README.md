@@ -89,5 +89,6 @@
 <br>
 <p>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)<br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)
+
 </p>
