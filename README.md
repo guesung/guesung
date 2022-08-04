@@ -53,7 +53,7 @@
             src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/" /></a>&nbsp
     <a href="mailto:gueit214@naver.com"><img
             src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com" /></a>
-<a href="https://peterpan214.notion.site/"></a>
+<a href="https://peterpan214.notion.site/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224"/></a>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)
