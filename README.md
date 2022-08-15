@@ -52,7 +52,8 @@
     <a href="https://www.instagram.com/guesung/"><img
             src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/" /></a>&nbsp
     <a href="mailto:gueit214@naver.com"><img
-            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com" /></a>
+            src="https://peterpan214.notion.site/" /><img src="https://play-lh.googleusercontent.com/ZhzCHDg4YU-RHM4vFRcu6v3Ud6SV5xVvCLS1HWmgIaJEi5lIR-zdIZcaoPW2w1O6YBU"/></a>
+    <a href=""></a>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gueit)](https://solved.ac/gueit)
