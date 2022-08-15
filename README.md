@@ -54,7 +54,7 @@
     <a href="mailto:gueit214@naver.com"><img
             src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com" /></a>
     <br />
-    <a href=""><img src="https://play-lh.googleusercontent.com/ZhzCHDg4YU-RHM4vFRcu6v3Ud6SV5xVvCLS1HWmgIaJEi5lIR-zdIZcaoPW2w1O6YBU" alt="Notion" width="30" height="30"/></a>
+    <a href="https://peterpan214.notion.site/"><img src="https://play-lh.googleusercontent.com/ZhzCHDg4YU-RHM4vFRcu6v3Ud6SV5xVvCLS1HWmgIaJEi5lIR-zdIZcaoPW2w1O6YBU" alt="Notion" width="30" height="30"/></a>
     
     
 </p>
