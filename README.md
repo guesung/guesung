@@ -54,7 +54,7 @@
     <a href="mailto:gueit214@naver.com"><img
             src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com" /></a>
     <br />
-    <a href="https://peterpan214.notion.site/7142411909fc4c8e9acf257ce1ef6bf0"><img src="https://peterpan214.notion.site/peterpan214/Park-Gue-Sung-04726558a8a14273a1f1d5e7956c41d2" alt="Notion" width="30" height="30"/></a>
+    <a href="https://peterpan214.notion.site/peterpan214/Park-Gue-Sung-04726558a8a14273a1f1d5e7956c41d2"><img src="https://peterpan214.notion.site/peterpan214/Park-Gue-Sung-04726558a8a14273a1f1d5e7956c41d2" alt="Notion" width="30" height="30"/></a>
     
     
 </p>
