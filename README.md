@@ -18,11 +18,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
-- [이제는 3학년, 1학기 나의 목표](https://peter-coding.tistory.com/295)
-- [채팅 기능을 구현해보자 (Websocket, Stomp, SoketJS)](https://peter-coding.tistory.com/284)
+- [React 번역 도전기]([https://peter-coding.tistory.com/295](https://peter-coding.tistory.com/355))
+- [채팅을 구현해보자 (Websocket, Stomp, SoketJS)](https://peter-coding.tistory.com/284)
 - [서버로 사진파일과 객체 전송하기(CORS policy, proxy, MultiPart, Form Data)](https://velog.io/@gueit214/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-CORS-policy-proxy-MultiPart-Form-Data)
-- [[프로젝트] 웹사이트에 이미지 업로드하여 미리보기 (FileReader)](https://velog.io/@gueit214/React-%ED%83%90%EA%B5%AC-1%ED%8E%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0)
-- [[프로젝트] 공통 컴포넌트 (Wrapper와 WrapperInner)](https://velog.io/@gueit214/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%ED%86%B5-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Wrapper%EC%99%80-WrapperInner)
+- [Next.js 블로그 분해기 (feat. Next.js 13)](https://peter-coding.tistory.com/363)
+- [소중한 주니머 콘퍼런스 후기](https://peter-coding.tistory.com/371)
 
 ### 💞️About me
 
