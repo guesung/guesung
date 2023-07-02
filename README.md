@@ -19,13 +19,6 @@
 - [Next.js 블로그 분해기 (feat. Next.js 13)](https://peter-coding.tistory.com/363)
 - [소중한 주니어 콘퍼런스 후기](https://peter-coding.tistory.com/371)
 
-### 💞️About me
-
-<a href="https://guesung.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
-<a href="https://www.instagram.com/guesung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://peter-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Coding Blog-7B68EE?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://peter214.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Life Blog-E0FFFF?style=flat-square&logo=tistory&logoColor=black"/></a>
-
 ### 🍀 I am better man than I was yesterday
 
 ![](https://github.com/guesung/guesung/blob/output/github-user-contribution.svg)
