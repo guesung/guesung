@@ -14,7 +14,7 @@
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
 - [React 번역 도전기](https://peter-coding.tistory.com/355)
-- [채팅을 구현해보자 (Websocket, Stomp, SoketJS)](https://peter-coding.tistory.com/284)
+- [채팅을 구현해보자 (Websocket, Stomp, SockJS)](https://peter-coding.tistory.com/284)
 - [서버로 사진파일과 객체 전송하기(CORS policy, proxy, MultiPart, Form Data)](https://velog.io/@gueit214/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-CORS-policy-proxy-MultiPart-Form-Data)
 - [Next.js 블로그 분해기 (feat. Next.js 13)](https://peter-coding.tistory.com/363)
 - [소중한 주니어 콘퍼런스 후기](https://peter-coding.tistory.com/371)
