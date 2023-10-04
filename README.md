@@ -22,7 +22,7 @@
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/react-icon.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-128.png">
+<img alt= "icon" wide="60" height="60" src ="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
 &nbsp
 &nbsp
 &nbsp
