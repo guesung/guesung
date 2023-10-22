@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=guesung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
-<div align='center'> 🖥 열심히 현업에서 달리고 있는 신입 프론트엔드 개발자입니다.</div>
+<div align='center'> 🖥 열심히 현업에서 달리고 있는 프론트엔드 개발자입니다.</div>
 <br>
 <div align='center'> Email : gueit214@naver.com</div>
-<div align='center'> Blog : <a href="https://guesung.oopy.io/developer">guesung.oopy.io/developer</a></div>
+<!-- <div align='center'> Blog : <a href="https://guesung.oopy.io/developer">guesung.oopy.io/developer</a></div> -->
 <br>
 <p align="center">
 🍚&nbsp&nbsp&nbsplanguages
