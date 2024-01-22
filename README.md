@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=guesung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
-<div align='center'> 🖥 안녕하세요, 박규성입니다.</div>
+<div align='center'> 🖥 안녕하세요, 프론트엔드 개발자 박규성입니다.</div>
 <br>
 <div align='center'> Email : gueit214@naver.com</div>
 <!-- <div align='center'> Blog : <a href="https://guesung.oopy.io/developer">guesung.oopy.io/developer</a></div> -->
@@ -32,9 +32,17 @@
 <br>
 <br>
 
+### Contribution
+- [toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+author%3Aguesung)
+- [morethan-log](https://github.com/morethanmin/morethan-log/pulls?q=is%3Apr+author%3Aguesung+)
+- [Next.js-ko](https://github.com/Nextjs-kr/Nextjs.kr/pull/430)
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/768)
+- [mdn/translate-content](https://github.com/mdn/translated-content/pull/15040)
+
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguesung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />
 </p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
