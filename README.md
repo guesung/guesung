@@ -35,9 +35,9 @@
 ### Contribution
 - [toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+author%3Aguesung)
 - [morethan-log](https://github.com/morethanmin/morethan-log/pulls?q=is%3Apr+author%3Aguesung+)
+- [mdn/translate-content](https://github.com/mdn/translated-content/pulls?q=is%3Apr+author%3Aguesung)
 - [Next.js-ko](https://github.com/Nextjs-kr/Nextjs.kr/pull/430)
 - [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/768)
-- [mdn/translate-content](https://github.com/mdn/translated-content/pull/15040)
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguesung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />
