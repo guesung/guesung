@@ -11,7 +11,7 @@
 <br/> 
 
 ### 🍞 Activities
-- [DND](https://www.dnd.ac) 12th ( 2023.07 - 2023.08 )
+- [DND](https://www.dnd.ac) 9th ( 2023.07 - 2023.08 )
 
 <br/> 
 
